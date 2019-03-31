@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["fotabox"],{f810:function(n,o,l){"use strict";l.r(o);var t,u,a=l("2877"),e={},p=Object(a["a"])(e,t,u,!1,null,null,null);o["default"]=p.exports}}]);
